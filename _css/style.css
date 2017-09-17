@@ -1,0 +1,19 @@
+body {
+  background: #3c6478; /**/
+  color: white;
+  font-family: 'Roboto Mono', monospace;
+  font-size: 25px;
+  margin: 5em 5em auto 5em;
+}
+
+#intro {
+	background: #CD594A; /*lighter ruby*/
+}
+
+#info {
+	background: #1496BB; /*alice*/
+}
+
+a {
+	color: cyan;
+}
